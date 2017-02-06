@@ -2,7 +2,7 @@
 
 Modify WebCrawler.java to search for the words
 "Computer Programming" starting from the URL http://cs.armstrong.edu/liang.
-Your program terminates once the word is found. Display the URL for the page
+Your program terminates once the words are found. Display the URL for the page
 that contains the words.
 		
 ##Tasks
